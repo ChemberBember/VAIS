@@ -1,6 +1,3 @@
-![Окно настройки DeepSeek API](QyB3rgq.png)
-![DeepSeek Platform](chrome_Z0gfkXiMvg.png)
-
 # 🧠 Voice AI System (GPT/DeepSeek PC Control)
 
 ## 📌 Overview
@@ -24,9 +21,7 @@
 
 # 📷 MAIN LOOP
 
-![Окно настройки DeepSeek API](QyB3rgq.png)
-**![MAIN LOOP](./images/main_loop.png)**
-
+![DeepSeek Platform](chrome_Z0gfkXiMvg.png)
 Основной цикл отвечает за:
 
 - приём пользовательских команд,
@@ -71,7 +66,9 @@
 
 # 🧩 Структура распределителя
 
-![DeepSeek Platform](chrome_Z0gfkXiMvg.png)
+
+![Окно настройки DeepSeek API](QyB3rgq.png)
+**![MAIN LOOP](./images/main_loop.png)**
 
 Распределитель управляет логикой вызова extensions и обработкой сообщений.  
 Он состоит из:
